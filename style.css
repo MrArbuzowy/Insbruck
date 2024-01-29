@@ -1,0 +1,193 @@
+.divv1{
+    width: 100%;
+    
+    text-align: center;
+}
+.img1{
+    width: 80px;
+    height: 80px;
+}
+.a1{
+    line-height: 80px;
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    color: #2a3d8f;
+    font-size: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Noto Sans;
+}
+.a1:hover{
+    color: #3893cc;
+}
+.divv2{
+    background-image: url(img/innsbruck1.png);
+    height: 400px;
+    padding-top: 170px;
+}
+.h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+.divv3{
+padding-left: 5%;
+padding-right: 5%;
+}
+.h2{
+    color: #2a3d8f;
+}
+.h3{
+
+}
+.p1{
+
+}
+.divv4{
+
+}
+.h4{
+
+}
+.ul1{
+
+}
+.divv5{
+    width: 360px;
+    height: 280px;
+    background-image: url(img/skier.png);
+    background-position: center;
+    background-size: cover;
+    float: right;
+
+
+    
+}
+.p2{
+    margin: 0;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+.a2{
+    float: right;
+    color: black;
+    background-color: white;
+    opacity: 0.7;
+    padding: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.divv6{
+
+}
+.h5{
+    margin-top: 100px;
+}
+.img2{
+    width: 100%;
+}
+.divv7{
+  background-color: rgb(124, 124, 124);  
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  padding: 5px;
+}
+.divv8{
+
+}
+.h6{
+    color: #2a3d8f;
+}
+.p3{
+
+}
+.divv9{
+    width: 100%;
+    height: 300px;
+    background-color: #B5d4c5;
+    margin: 10px;
+}
+.divv10{
+    width: 35%;
+    display: inline-block;
+    height: 100%;
+    line-height: 300px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.img3{
+    width: 64%;
+    display: inline-block;
+    height: 100%;
+    float: right;
+}
+.img4{
+    width: 64%;
+    display: inline-block;
+    height: 100%;
+    float: left;  
+}
+.h7{
+    color:#2a3d8f ;
+    margin: 10px;
+}
+.if1{
+    width: 100%;
+    height: 450px;
+    margin: 10px;
+}
+.p4{
+    margin: 10px;
+}
+.tab1{
+    margin: 20px auto;
+    border-collapse: collapse;
+    text-align: center;
+    width: 1000px;
+}
+.tr1 td{
+    padding: 10px;
+    color: white;
+    background-color: rgb(32, 46, 92);
+    font-weight: bold;
+    width: 25%;
+    font-size: 25px;
+}
+.tr2 td{
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 25px;
+}
+.divv11{
+    background-color: #B5d4c5;
+    text-align: center;
+    
+}
+.h8{
+    width: fit-content;
+    display: inline-block;
+    left: 20px;
+    margin-right: 100px;
+}
+.img5{
+    width: fit-content;
+    display: inline-block;
+    padding-right: 30px;
+    
+}
+.p5{
+    margin: 0;
+    width: fit-content;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+
